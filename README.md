@@ -24,7 +24,7 @@ Optional parameter list
 ```bash
 
 curl --request POST \
-  --url http://127.0.0.1:8080/v1/chat/completions \
+  --url http://127.0.0.1:8080/nai/v1/chat/completions \
   --header 'Authorization: Bearer stytch_session' \
   --data '{
   "messages": [
@@ -41,4 +41,4 @@ curl --request POST \
 ```
 
 ### stytch_session Get method
-![image|690x233](https://cdn.linux.do/uploads/default/original/3X/c/c/cc5bb06024b2fc93581227e16b5a5e3e220d159c.png)
+![4c96b3e9-c8c4-473e-b8f2-f748abb9f049](https://github.com/Niansuh/Groq2API/assets/139365289/245786bb-6fe4-40ff-842a-bf705a7374f8)
